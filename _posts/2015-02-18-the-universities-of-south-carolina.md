@@ -1,0 +1,34 @@
+---
+id: 282
+title: The Universities of South Carolina
+date: 2015-02-18T15:59:57+00:00
+author: logan7
+layout: post
+guid: http://lindsaythomas.net/engl3490/?p=282
+permalink: /2015/02/18/the-universities-of-south-carolina/
+categories:
+  - Prompt 3
+---
+I chose to compare Clemson only with other public, 4-year universities in South Carolina. I recognize that this makes my pool limited and lacking in diversity. However, this method will separate external forces that would otherwise affect the tuition costs for the college. A few examples would include individual state legislation toward college grants and loans, lottery money, average household income for state residents, etc. Also students that would have paid in-state or out-of-state tuition would have the same tuition criteria for any college on this list. So, how did South Carolina&#8217;s big institutions compare?
+
+The graphs from each of these institutions were extremely similar. Initially they all show a steady increase all the way across the graph. However, if the “Adjust for inflation” box is checked, it shows a slightly different picture. For each graph, the time frame from the year 2000 until 2009 shows the greatest increase. Clemson&#8217;s in-state tuition increased 24.1% from 2003 to 2004 alone. After 2009 the in-state and out-of-state tuition for each of these colleges begin to balance out with inflation. From 2009 to 2014 most of the colleges show and average increase of 1% over inflation for in-state and 2% for out-of-state.
+
+This graphic shows the % increase from 2000-2014 for the in-state and out-of-state tuition of the universities I compared:
+
+[<img class="alignnone  wp-image-283" src="http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Percent-change-300x117.jpg" alt="Percent change" width="725" height="283" srcset="http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Percent-change-300x117.jpg 300w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Percent-change-1024x400.jpg 1024w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Percent-change-100x39.jpg 100w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Percent-change-150x59.jpg 150w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Percent-change-200x78.jpg 200w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Percent-change-450x176.jpg 450w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Percent-change-600x234.jpg 600w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Percent-change-900x351.jpg 900w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Percent-change.jpg 1204w" sizes="(max-width: 725px) 100vw, 725px" />](http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Percent-change.jpg)
+  
+Then compare that to the inflation of the US dollar from 2000-2014:
+
+[<img class="alignnone  wp-image-286" src="http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/calculator-300x246.jpg" alt="calculator" width="484" height="397" srcset="http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/calculator-300x246.jpg 300w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/calculator-100x82.jpg 100w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/calculator-150x123.jpg 150w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/calculator-200x164.jpg 200w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/calculator-450x370.jpg 450w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/calculator-600x493.jpg 600w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/calculator.jpg 813w" sizes="(max-width: 484px) 100vw, 484px" />](http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/calculator.jpg)
+
+Some how the price of college increased roughly 300% on average while the US dollar only inflated 37.5% in the same time frame. In Problems with Privatization, Chris Newfield analyzed similar tuition concerns with the University of California as the college shifted from public to a more privatized business model. If such a model were implement, Newfield stated, “undergraduate fees rise as quickly as seem politically possible; graduate and professional school fees rise to “market” levels as rapidly as possible; annual increases are routine and significant” (187). Newfields analysis seems to be directly mirrored by the figures of South Carolina&#8217;s public institutions. As state cuts affect colleges, the bill will be passed on to other hands through tuition costs.
+
+The causes and corrections for these changes in tuition are the hardest aspects to pinpoint. The overall economy is a good place to start. As I indicated previously, the greatest increase was from 2000-2009. It can not be by chance that this time frame coincides with the recession as can be shown by the DOW Jones Ind. Average:
+
+[<img class="alignnone  wp-image-287" src="http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Dow-300x161.jpg" alt="Dow" width="701" height="376" srcset="http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Dow-300x161.jpg 300w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Dow-1024x548.jpg 1024w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Dow-100x54.jpg 100w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Dow-150x80.jpg 150w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Dow-200x107.jpg 200w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Dow-450x241.jpg 450w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Dow-600x321.jpg 600w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Dow-900x482.jpg 900w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Dow.jpg 1278w" sizes="(max-width: 701px) 100vw, 701px" />](http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Dow.jpg)
+  
+That economic crisis hit everything involving a dollar, euro, or yen hard. Greece is still reeling from the economic assault with unemployment over 25%. The cuts to public education were hasty decisions made by law makers while the proverbial ship was sinking. Now that the economy appears to have returned to normal (as can also be shown by the DOW), will the lawmakers readdress the needs of public education?
+
+(http://www.usinflationcalculator.com/)
+
+(https://www.google.com/finance?q=dow&ei=9PfkVOHoJs2PsgeghIHADg)

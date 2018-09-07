@@ -1,0 +1,20 @@
+---
+id: 547
+title: Ghosts in the Machine
+date: 2015-04-01T21:07:03+00:00
+author: griffinday
+layout: post
+guid: http://lindsaythomas.net/engl3490/?p=547
+permalink: /2015/04/01/ghosts-in-the-machine/
+categories:
+  - Prompt 8
+---
+McPherson’s main argument in “US Operating Systems at Mid-Century: The Intertwining of Race and UNIX” is that as programming languages followed UNIX and became more modular, designed so that processes were isolated and not visible to each other or the user, so did our global culture. Social problems were isolated and hidden away from the &#8220;user&#8221; or average person in society in the same way that computer programs like UNIX &#8220;filter&#8221; raw data and information into something that the user can understand but at the same time keep the user from seeing its process. In other words, the attitude towards technology that &#8220;I don&#8217;t care how it works, as long as it does&#8221; was reflected in society as people ignored and isolated race issues because things (society) &#8220;worked&#8221;. People didn&#8217;t know how racial politics worked, and they didn&#8217;t see the pockets of discontent or unfair treatment because those pockets were hidden from them by society in the same way that a computer program hides its processes and problems from the user. This &#8220;smoothing over&#8221; and modulation has also affected the academic world as different areas of study have become increasingly isolated from each other, without sharing information. McPherson says that if we don&#8217;t look to technology and how it &#8220;trains&#8221; us, in other words if we don&#8217;t look outside the box, we can&#8217;t be truly enlightened or impartial.
+
+_The Bug_ definitely relates to the McPherson piece because at its core, the book is about the way that computer programmers, in creating their programs, put bits of themselves into what they create, and that the program and the person are meshed together like a trellis and a climbing vine. More importantly, the book deals with a &#8220;bug&#8221; that takes on a persona and a life of its own which fits with what McPherson describes- technological processes reflecting and influencing real world attitudes and events. Not only does the Bug become a character in the book, it is a concrete example of a technological problem and technology itself, spilling into the real world and affecting people&#8217;s jobs, lives, and society. Bot the McPherson piece and _The Bug_ remind us of the way that computer viruses are (theoretically) capable of destroying our world that today is so dependent on technology and programming. Additionally, AIDS plays a role in _The Bug_ and I&#8217;d be hard pressed to think of a societal problem (besides racism) that was more modulated away and hidden and mired in a fog of misinformation than HIV/AIDS. Like a computer program hiding its workings from its user, our government hid AIDS away from us for a long time, seeing the pockets of suffering as isolated from the rest of the population. _The Bug_&#8216;s message of  humanity and machinery existing messily together, as well as the power and danger of technology, really goes with McPherson&#8217;s ideas about looking at what&#8217;s truly going on in technology in order to see what&#8217;s truly going on in society.
+
+This picture ( from the movie &#8220;Gamer&#8221; found on Lunch.com article &#8220;You Game?&#8221; by user thedivemistress image source at http://4.bp.blogspot.com/-DaOmISkeYOQ/TkWaeObQ4jI/AAAAAAAABh8/yUt1n3D9Hho/s1600/gamermoviephoto-2.jpg)
+
+for me really illustrates people isolated by technology, like McPherson describes. It&#8217;s a startling image and really makes me think of the way that humanity is dependent on technology and the way that technology keeps our lives as we know them, moving forward.
+
+[<img class="alignnone size-medium wp-image-550" src="http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/04/gamermoviephoto-2-300x200.jpg" alt="gamermoviephoto-2" width="300" height="200" />](http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/04/gamermoviephoto-2.jpg)

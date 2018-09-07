@@ -1,0 +1,18 @@
+---
+id: 509
+title: 'Ethan Levin&#8217;s Obsession&#8211;Our Obsession?'
+date: 2015-03-25T21:59:28+00:00
+author: tlbenne
+layout: post
+guid: http://lindsaythomas.net/engl3490/?p=509
+permalink: /2015/03/25/ethan-levins-obsession-our-obsession/
+categories:
+  - Prompt 7
+---
+Ellen Ullman&#8217;s work _The Bug_ discusses the relationship between humans and computers. The main character, Ethan Levin, has a very close relationship with technology. As his obsession with coding and computer technology develops throughout the novel, it raises some interesting questions about technology in the world today. How have we allowed technology to control such large aspects of our lives? How have we slowly released our power and such important aspects of our lives (communication, news sources, maps, entertainment, etc.)  to mechanical devices? Why have we not fought against the power of technology? What makes us really believe that what technology can offer is superior to what humans can do apart from it?
+
+Ullman writes, &#8220;Soon, though, Ethan stopped noticing the plum blossoms, the bees in the lavender, the trebling radio, the rustle of the willow&#8230;.The next time he looked up, he was surprised to see that a blue-white dusk had settled in&#8221; (44-45). Ullman&#8217;s description explains the depth of thinking that Ethan enters into as he becomes unresponsive to the physical world around him and sinks into the technological world in front of him. At what point do we (society) become completely unresponsive to the world around us, just as Ethan has in this section? Ethan&#8217;s obsession with the technology he is studying directly reflects the way humans, in general, release themselves to the power of technology. Our society is wrapped up in technology, and it seems like this is an issue that will continue to grow. I think Ullman is using this picture of Ethan to foreshadow what could come to our technology-enthralled society. Ethan is continued to be painted as a negative character in this novel, and his personality seems to correlate to his obsession. She writes, &#8220;Ethan could feel his colleagues&#8217; annoyance but decided, too bad, it was their problem. Why should he apologize for knowing how to make and schedule and keep to it?&#8221; (39). In this section, Ethan is clearly not sympathetic to his coworkers. His work with technology is a priority to him, and he is willing to lose relationships with those around him to be successful.
+
+&nbsp;
+
+This image is particularly representative of the human relationship with technology. As humans have this growing relationship and slowly continue to release every aspect of their lives to the power of technology, they will be completely intertwined with it. The power image in the eye represents the idea that humans are obsessed with technology and even seem to see the world through a sort of &#8220;technological lens.&#8221; [<img class=" size-medium wp-image-511 alignleft" src="http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/03/human-eye-power-button-reflection-inside-technology-conce-28919233-300x220.jpg" alt="??????????????????????????????????????????????????????????????????????????????????????????????????????????????" width="300" height="220" />](http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/03/human-eye-power-button-reflection-inside-technology-conce-28919233.jpg)

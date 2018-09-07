@@ -1,0 +1,16 @@
+---
+id: 341
+title: Why do we REALLY go to college?
+date: 2015-02-25T19:39:08+00:00
+author: keeleymccullough
+layout: post
+guid: http://lindsaythomas.net/engl3490/?p=341
+permalink: /2015/02/25/why-do-we-really-go-to-college/
+categories:
+  - Prompt 4
+---
+For this post, I decided to write about one of the recommended readings, &#8220;The Day the Purpose of College Changed&#8221;. The heading was hard to miss as it was big, bold and labeled, &#8220;**After** **February** **28**, **1967**, **the** **main** **reason** **to** **go** **was** **to** **get** **a** **job**&#8220;. Obviously, nowadays, why _else_ would anyone go to college, especially with the amount of money we are spending on it? There was one line in the article that really caught my attention: &#8220;Colleges increasingly viewed students as customers&#8221;. I have never really looked at college that way, and as a future teacher, I would not ever _want_ to look at any form of education that way. However, the more I think about it, the more I unfortunately think it is a little bit true. We pay thousands upon thousands of dollars each year to become further educated and even after we graduate, the colleges are still asking us for money. Going along with the header of the article, college is kind of like advertising a really great outfit: &#8220;Buy this outfit and you can look like a star&#8221;. But for college, it is more like, &#8220;Buy this education and you can have a great job&#8221;. I also was not that surprised to learn, &#8220;more students majored in business than anything else&#8221; because so many of my friends have chosen business as their major, even if they really do not have much of an interest in it. The article also explained, &#8220;In the early 80s, most freshmen said they&#8217;d chosen their college because they thought it would help them get a better job. The previous top reason? Learning more about things that interested them&#8221;. This one quote explains the article very well. I know very few people who have actually stuck with a major that they have a passion for. It is sad to think there are people who are paying to be educated in a subject that they did not ever really want to study. I think the English majors are full of incredibly passionate people because what kind of jobs are out there for us? Scarce to none. As for myself, even though I do want to become a teacher, I am still sticking to my English roots and becoming an English teacher. Finally, the article states that education has become &#8220;all about training&#8221;. That is incredibly accurate when I think about it. Why do we go to high school? So the majority of us can be trained to go on to college. Why do we go to college? So the majority of us can be trained to get a job. Why do we get jobs? So we can be trained for the rest of our lives.
+
+The image that I attached is just a funny way to describe why people to go to college and the end result of actually getting a salary paying job.
+
+[<img class="alignnone size-medium wp-image-346" src="http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/college-300x212.jpg" alt="college" width="300" height="212" />](http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/college.jpg)

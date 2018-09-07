@@ -1,0 +1,20 @@
+---
+id: 221
+title: Plugged In
+date: 2015-02-11T12:47:24+00:00
+author: logan7
+layout: post
+guid: http://lindsaythomas.net/engl3490/?p=221
+permalink: /2015/02/11/plugged-in/
+categories:
+  - Prompt 2
+---
+The experiment held on class Tuesday on “wasting time on the internet” was for me no different than any given day outside of class. It would be best to briefly expand on my background with computers to explain why.
+
+I began using the internet in 1995. That is also around the time I modified my first video game. After that I used the internet to teach myself how to photo edit, splice movies, program, computer network, etc. I also use it for a majority of my entertainment with movies, music, video games, news articles, and so on. I later joined the US Navy as an IT and monitored the networks on one of the vesicles in the fleet. Today I would say spend a minimum of 3 hours on a computer every day with many days reaching over 6 hours. A lot of that time is usually spent “plugged in” to the internet.
+
+Due to my excessive time interfacing with computers, I can easily identify with N. Katherine Hayles&#8217; concept of “hyper attention”. As a child I was diagnosed with ADD, but I did not end up taking medication for it. I also find myself drifting from one distraction to another. While I write this blog I have two browsers open. One with 8 tabs with all different information on them and the other browser is playing music. Many of these behaviors directly mirror Hayles&#8217; assessments in her article “Hyper and Deep Attention: The Generational Divide in Cognitive Modes”. In “How We Read”, Hayles then ties this “hyper attention” to “hyper reading” and “disciplinary identity” to “close reading”. The “hyper reading” method is described as scanning an article and “close reading” is a full line by line method. Even with my excessive background, I seem to be able to fully participate in both methods of reading as outlined. I was able to complete every reading task for _The Familiar_ in the allotted time which would use “close reading”. Maybe I have just been able to adapt my hyper attention to suit my needs.
+
+In keeping with the concept of “hyper attention”, I performed a bit of multitasking in our class experiment. I started with a little house cleaning. I updated a few programs like Adobe and my virus scan. I then put on some music. Today I was listening to Canadian Folk artist Stan Rogers <https://www.youtube.com/watch?v=Nxls60aYSZA> . I joined the class chat as my means of communication. I also checked my stocks. I started trading a few stocks in small amounts a year ago as a personal experiment. At the time I checked in class, I was up 0.61%. Then for the rest of class I gave myself a little project. I have never installed a Linux based operating system on a computer, so I decided to do it in class. I used the net to download the Ubuntu Image, 7Zip, and some documentation on installation. I then partitioned my hard drive for the new OS, a swap drive, and the original OS. The rest of the details aside, I was able to get it operational before the end of class and rejoin the chat. Its always fun to learn something new and you feel even more clever when you taught yourself to do it. So if anyone wants a duel boot with Ubuntu on their Windows machine I can answer their questions now.
+
+It might be the most entertaining way to spend an hour on the internet, but like I stated before our class time was a drop in the bucket of my experience on the net. Before class I watched half the movie “Closer to the Edge” <https://www.youtube.com/watch?v=qds9Of4qw-M> on campus while waiting. After class I went home and spent about 5 hours on the net playing video games or doing homework. Its that balance of fun, work, and learning that make the internet a major tool in my life.

@@ -1,0 +1,16 @@
+---
+id: 421
+title: Close Reading for One Word
+date: 2015-03-11T16:19:34+00:00
+author: katyhinton
+layout: post
+guid: http://lindsaythomas.net/engl3490/?p=421
+permalink: /2015/03/11/close-reading-for-one-word/
+categories:
+  - Prompt 6
+---
+Close reading is defined as careful and purposeful reading.  It also includes rereading and specifically combing through the text to try to gain a deeper insight about the meaning of the text.  For what we are doing for Investigation 2 is an extreme version of close reading.  By going through the text a following the track of one specific word we are doing a close reading and gaining the meaning behind the text, in an even closer way.  What we are doing seems similar to following the arc of one specific character throughout a novel and seeing how he or she changes, this is essentially the idea behind investigation 2, but we are following a word as opposed to a character.  Following the arc of a word requires an even more detailed reading because of how often and how many different ways a word can be used.
+
+Although this is similar to a more traditional sense of a close reading, it is not exactly the same.  The process and way to go about this type of close reading is different than the traditional form of close reading.  In a traditional close reading, one might go through the text and annotate as they went, looking for patterns, and then drawing conclusions about the patterns that were noticeable.  This is the same basic principle that one would go through to do a close reading of one word however it would be much more specific.  I think that the biggest difference is that traditional close readings seems to be done for the most part in a deductive manner, the reader has an overarching theme in mind and then annotates aspects of the book that support that theme, while our word-specific close reading is more inductive, the reader chooses a word and annotates specific places where this word occurs and then draws a fuller conclusion about the meaning from those specific instances.  I think in the context of this book and this investigation, reading means not only paying attention to the novel and absorbing its overall information, but also paying close, specific attention to word usage in order to complete a close reading of just one word.  I think that the tools and technologies that will be involved in this close reading will be essentially the same as in a traditional close reading.  When one considers the literal tools used, pencil, pen, highlighter, sticky-note, there is really no difference between the required materials needed for either type of close reading.
+
+Overall, I think that there are some similarities and some differences in the two types of close readings that we have discussed.  I think that the the most important difference is the difference in thinking styles, inductive and deductive.  I think that by thinking about a novel in an inductive manner rather than a deductive manner may provide us with a different way of thinking about literature in general.  I think that this is important specifically because of the nature of this novel and how much it deals with the presence of patters and their meaning.  Therefore we are exploring this in a way that is more reflective of the content of the novel.

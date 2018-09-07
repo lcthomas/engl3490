@@ -1,0 +1,16 @@
+---
+id: 652
+title: The Final Conclusion
+date: 2015-04-15T18:02:29+00:00
+author: meghanzieger
+layout: post
+guid: http://lindsaythomas.net/engl3490/?p=652
+permalink: /2015/04/15/the-final-conclusion/
+categories:
+  - Prompt 10
+---
+When I signed up to take this class, I was intrigued and simultaneously confused as to what &#8220;Digital Feelings&#8221; actually meant. Throughout the semester I continued to fail to explain what exactly the class was about, but now after finally thinking about what we&#8217;ve read and discussed throughout the semester, I think I&#8217;m close to figuring it out. Everyone has had feelings since the beginning of time, but since the growth and invention of so many new technologies in the past few decades the way these feelings are expressed and created have changed drastically.
+
+My final project is going to be an attempt to explain the different ways that our expressions of our feelings have evolved throughout the new inventions of technology, specifically social media, and with the standard for comparison coming from traditionally limited forms of expression like books, specifically in this case _Pattern Recognition_. Cayce Pollard is already arguably a very emotionally limited person, whether that be by a choice due to her condition or because the confines of a print novel restrict the ability to fully express the complexity of the emotions she&#8217;s experiencing. The simulated program of We Feel Fine that was one of the first examples of digital technology we looked at is an example of the wide range of emotions that can be expressed digitally, due to the lack of limitations of space, storage, and time. Updates are received in real time which convey the most honest and current information, there&#8217;s no sense of lag like there is in a print artifact, however in my project I plan to look into what temporary versus permanent feelings mean for our culture and how technology influences them.
+
+The controversy surrounding apps like Yik Yak, Twitter, and Facebook will be examined in relation to both the beneficial and harmful effects instantaneous digital feelings have in our society today from targeted advertising, cyber bullying, and even international hacking situations. Digital feelings are the currency of contemporary expression and the majority of the population including myself didn&#8217;t even realize the degree of it&#8217;s pervasiveness until after weeks of reading through different works analyzing it&#8217;s consequences.  I plan to write a paper examining the differences between print expression and digital expression through the fundamental processes of both and the consequences, while using real life examples and information through data collected about emotions and their expression on the web today in the form of graphs, charts, and images that can augment any conclusions I come to. It&#8217;s taken this long to finally begin to comprehend the magnitude of what digital feelings can occur, so my goal for the final project is to share the process in a way that takes the reader less time to come to a conclusion that I did.

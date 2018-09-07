@@ -1,0 +1,24 @@
+---
+id: 279
+title: Rank vs. Cost
+date: 2015-02-17T15:15:10+00:00
+author: michalvanmeter
+layout: post
+guid: http://lindsaythomas.net/engl3490/?p=279
+permalink: /2015/02/17/rank-vs-cost/
+categories:
+  - Prompt 3
+---
+Clemson has eight peer institutions. Of these eight, four are ranked in the top 25 universities. I decided to compare the cost of tuition among these four universities and Clemson. Of those four universities, three are ranked above Clemson. I made a spreadsheet to represent the costs associated with each of these universities.
+
+[<img class="alignnone size-medium wp-image-280" src="http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Screen-Shot-2015-02-16-at-3.43.15-PM-300x188.png" alt="Screen Shot 2015-02-16 at 3.43.15 PM" width="300" height="188" srcset="http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Screen-Shot-2015-02-16-at-3.43.15-PM-300x188.png 300w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Screen-Shot-2015-02-16-at-3.43.15-PM-1024x640.png 1024w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Screen-Shot-2015-02-16-at-3.43.15-PM-100x63.png 100w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Screen-Shot-2015-02-16-at-3.43.15-PM-150x94.png 150w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Screen-Shot-2015-02-16-at-3.43.15-PM-200x125.png 200w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Screen-Shot-2015-02-16-at-3.43.15-PM-450x281.png 450w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Screen-Shot-2015-02-16-at-3.43.15-PM-600x375.png 600w, http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Screen-Shot-2015-02-16-at-3.43.15-PM-900x563.png 900w" sizes="(max-width: 300px) 100vw, 300px" />](http://lindsaythomas.net/engl3490/wp-content/uploads/sites/3/2015/02/Screen-Shot-2015-02-16-at-3.43.15-PM.png)
+
+I focused mainly on out-of-state tuition costs because these seem to differ the most. After comparing the five peer institutions that ranked in the top 25, <span style="text-decoration: underline">I found that the out-of-state tuition cost decreased as the rank decreased. Therefore, a higher cost is associated with a higher rank among peer institutions.</span> At first thought, this seemed to make sense—pay more money to attend school and get a “better” education which leads to a better paying job.
+
+My next thought was whether these schools increase tuition because their rank increases or because they actually offer a better education and better facilities. Does cost effect status, or does status effect cost? I assume it is probably a little of both. Schools realize that people will be willing to pay more money to attend a #3 ranked school versus a #25 ranked school. There are many ways universities can differentiate themselves from each other—facilities, majors, sports, accreditations, etc.
+
+The statistics that I found above are interesting to take into account as we study the shift to online classes. If a college is purely online, there is less to differentiate the colleges from each other. The state-of-the-art facilities and high-tech classrooms no longer have any weight. What would be used to determine the rank and cost of a university? What would happen to all of the money that has been put into college campuses? I think it is important to provide the college experience by having physical classes, provide jobs to teachers, and provide hands-on research and learning opportunities to students.
+
+I am reluctant to take online classes because I do not learn as well. I need interaction, and I dislike spending time on my computer. I cannot comprehend online articles as well as I can physical, print copies. I am currently enrolled in an online class, and it is evident that I do not learn the material as well. With online classes, comes technological difficulties, broken computers, unanswered questions, and lost jobs. In the article “Online Education: The Disruption to Come” it says, “all that will remain of hundreds or thousands of less-selective universities will be the buildings—and a skilled teacher or two who built courses that prospered in online markets.” There are pros and cons to any decision, and saving money is a huge pro to online classes. The article also mentions the flexibility of online classes and the improvement of interaction between professor and student, which I am leery of. Everybody learns differently, and I know that I learn best by going to a physical class. This limits the distractions that online classes bring and demands only a set period of time.
+
+&nbsp;

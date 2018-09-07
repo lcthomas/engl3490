@@ -1,0 +1,15 @@
+---
+id: 79
+title: Blogging Guidelines
+date: 2015-01-02T15:58:48+00:00
+author: lindsaythomas
+layout: page
+guid: http://lindsaythomas.net/engl3490/?page_id=79
+---
+As described in the <a title="Guidelines" href="http://lindsaythomas.net/engl3490/guidelines/" target="_blank">course guidelines</a>, you will respond to 6 of 10 blogging prompts throughout the semester. Your responses are due each Wednesday night by 10 pm. All of your blog posts must be submitted Wednesday, April 15 by 10 pm (Wednesday of the second-to-last week of classes). You are free to choose which of the weekly prompts you want to respond to, with the following exception: everyone in the class must respond to Prompt 10, which is due Wednesday, April 15. We will not begin our regular course blogging until after we finish reading _The Familiar_. If you choose to respond to the first prompt, your post will be due Wednesday, February 4 by 10 pm.
+
+I will post each week&#8217;s prompt by Sunday night to our course website, and I will also send out an email to the class containing the prompt. To find the prompt if you lose the email, go to the Posts page, and, using the &#8220;Categories&#8221; right-hand sidebar menu, select the appropriate prompt (&#8220;Prompt 1&#8221; if you&#8217;re looking for the first prompt, and so on). The first post in each category (chronologically) will be the prompt.
+
+Each response should be 400-500 words. You should respond to the prompt fully, striving to be thoughtful and nuanced and avoiding description and summary. Sometimes, you will be prompted to simply write about whatever you want. There are a number of ways to approach this kind of prompt. You can situate the reading among the other readings we’ve encountered in class; you can write about an aspect of the day’s reading that you don’t understand, or something that jars you; or you can formulate an insightful question or two about the reading and then attempt to answer your own questions. Remember that to receive an “exceptional” score, each response must include an image or media clip that illustrates &#8212; rather than trivializes &#8212; its point. Furthermore, the source of the image or media clip must be clearly given. See the blog criteria on the <a title="Guidelines" href="http://lindsaythomas.net/engl3490/guidelines/" target="_blank">course guidelines</a> page for more information on how I grade blog posts.
+
+You may not write more than one blog post per week, and you may not make up missed blog posts. You may, however, choose to replace 1 of your blogs with another if you don&#8217;t perform as well as you may like on it. You may only replace one blog, and if you do this you must: a) email me when you submit your &#8220;replacement&#8221; blog to let me know which blog you are replacing; and b) submit your &#8220;replacement&#8221; blog as you would any other blog, on the required due date (in other words, no waiting until the end of the semester to decide which blog to replace). At the end of the semester I will average your blog scores to get your blogging grade.

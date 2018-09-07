@@ -1,0 +1,34 @@
+---
+id: 378
+title: The Power of a Picture
+date: 2015-03-04T18:46:00+00:00
+author: ktoney2015
+layout: post
+guid: http://lindsaythomas.net/engl3490/?p=378
+permalink: /2015/03/04/the-power-of-a-picture/
+categories:
+  - Prompt 5
+---
+>  “Briefly, though, she imagines the countless Asian workers who might, should they say yes, spend years of their lives applying versions of this symbol to an endless and unyielding flood of footwear. What would it mean to them, this bouncing sperm? Would it work its way into their dreams eventually? Would their children chalk it in doorways before they knew its meaning as a trademark?” (Gibson 8).
+
+When Cayce stops to think about the workers in these factories, she does not simply spark a comment on the nature of consumer culture. She speaks of the reality of the corporate culture as well. Last week, I posted about reification of those laboring only in the mode of information.  I think there is something to be said about just how large of a reach this ideology, or at least its base, has in society today. I certainly believe that it can be seen in the quote above.  For the purposes of illustrating that, I have brought in a quote that I believe strengthens the sentiment Cayce contemplates in the above quote by expanding its global and human context. The quote comes from Naomi Kline’s book, _No Logo_. In the following quote, she speaks about the new conceptualization of the worker as someone who fills a specific need in a specific manner. There are no variables. While that is all well and good in theory, there is a very human reality in the labor force, and it is one that in cases like Kline describes in her book, becomes almost mercilessly reified in the name of efficiency. Kline states:
+
+>  “At some Mexican maquiladoras, women are required to prove they are menstruating through such humiliating practices as monthly sanitary-pad checks. Employees are kept on twenty-eight-day contracts-the length of the average menstrual cycle” (Kline 222).
+
+I think that what Kline is saying here really meshes with what Cayce touches on in the opening quote. Not only do companies make and sell a product, they manufacture the workers in their factories as well. The human element is, in essence, removed in the name of a trademark, to maintain high productivity levels. In her book, No Logo, Kline details many more horrifying practices conducted in factories like this across the globe. The idea of commodification or reification of a human being becomes all the more exacerbated looking at it through a globally corporate lens. It is one that we are often blind to, in more ways than one. In the opening sentence of the above quote, it appears that Cayce states that the people who work in these factories do so willingly, but the unfortunate reality is that this is most often not the case. The power of the corporation in underdeveloped areas is a mighty one; it is one that Cayce notes has the ability to transcend from the level of the factory through generations. It is also interesting to note that Cayce gives these issues only a few passing thoughts. The presence of a trademark gets her thinking about the lives of generations of workers. She begins to think and feel deeply about the effect that her approval affects. Although she only spends a few brief moments contemplating that reality, Cayce demonstrates just how easy it is to take ourselves out of the all-consuming, flashy corporate culture that appears to consume us. We have the power to question the world around us.
+
+When we walk through the mall or various department stores or what have you, we have the power, the ability, to buy or not to buy things. Companies know that. It’s why they spend so much money for the flashiest, most emotionally effecting ads that will air for the greatest amount of time. The more we see them, the more they become familiar to us, the more we want to have that sweater or those sneakers in our lives and filling up our closets.
+
+Please keep that in mind as you watch the following video:
+
+You ARE The Product:
+
+
+
+John Green makes an interesting point about how his brother does not think that ads impact him, or that he does not believe that these ads impact him  greatly because he personally dislikes them. Even if we do not realize it, just as we discussed in class, these brands/corporations hold great sway in how we see the world and our place in it.
+
+Although Green states that some companies sell “you” in the way that they keep track of your interests and online habits to try and offer you goods and services they think you’d like, it is possible that companies sell “you” in a far more disconcerting way that I cannot help but think of after reading Kline’s book. Even if the “you” in the latter sense is not in fact you, the reader of this post, it is someone whose life is shaped by corporate culture.
+
+An interesting connection can be made from that idea to the notion that Cayce brings up of the massed produced product and its role in shaping human relationships and perceptions.  People are in this sort of situation commodified yet again. Both the workers and the consumers get swept up in it. It surrounds them, makes it meaningless, but they are okay with that, because they are given a job, though the nature of that job may not be up to par. The brands shape our culture. Like the “endless and unyielding flood of footwear,” these brands consume us to our very core, or at least, they have the power to do so if we let them. It is interesting to note how Cayce ponders the actions and perception of a later generation. These children were not around when this symbol was created or when their parents first started applying it to products, but they are familiar with it nonetheless. What will it symbolize to them? Most children look up to their parents as young children and see their jobs as a big part of them, idolizing the job that their heroes hold. These brands will shape how they see their parents, and perhaps their own future as well. The symbol, the trademark, has moved from the outside of a shoe into the eyes and minds of young children in these situations.
+
+Ultimately, it is our choice to be commodified, to be surrounded by brand after brand after brand without question, and as such, it is important, as John Green says, that we are aware of who and what we are giving our money to. There are faces, names, behind all of the products we consume. Even if the logo Cayce approves starts out, according to her, as “bouncing sperm,” it may eventually grow beyond anything she can imagine at this point (Gibson 8). This quote demonstrates to me an incredibly powerful fact that is important to consider, that a picture, logo or otherwise, is never just a picture.
